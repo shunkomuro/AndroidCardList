@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_item_image_widhth">120dp</dimen>
+    <dimen name="card_item_image_height">120dp</dimen>
+    <dimen name="card_item_image_margin">24dp</dimen>
+    <dimen name="card_item_radius">24dp</dimen>
+</resources>
